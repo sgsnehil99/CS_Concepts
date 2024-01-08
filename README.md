@@ -1,2 +1,2 @@
 # OOPS
-This project involves the program related to the basic concept of oops (object oriented programming language)
+This project involves learning of the Computer science concepts.
